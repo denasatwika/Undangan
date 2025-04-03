@@ -781,6 +781,9 @@ body {
     .gallery p {
       font-size: 0.85rem;
     }
+    .container-ossa {
+      margin-top: -70px;
+    }
   }
   
 
